@@ -1,14 +1,17 @@
-# Nerfies
+# SplitNeRF
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [SplitNeRF website](https://zarzarj.github.io/splitnerf.github.io/).  
+It is based on the [nerfies website](https://nerfies.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find SplitNeRF useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@misc{zarzar2023splitnerf,
+      title={SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation}, 
+      author={Jesus Zarzar and Bernard Ghanem},
+      year={2023},
+      eprint={2311.16671},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
